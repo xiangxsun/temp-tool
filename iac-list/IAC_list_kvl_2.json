@@ -1,0 +1,14 @@
+{
+  "BIOSID": [
+    "test 13",
+    "Test 14",
+    "876578590",
+    "87654788",
+    "Boot to UEFI Shell",
+    "boot to EFI Shell"
+  ],
+  "BIOSACM": [
+    "test3",
+    "test4"
+  ]
+}

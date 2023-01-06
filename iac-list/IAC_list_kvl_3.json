@@ -1,0 +1,14 @@
+{
+  "BIOSID": [
+    "Boot to FI Shell",
+    "boot to EFI prompt",
+    "Restart",
+    "blocking",
+    "Snoozing",
+    "terminating"
+  ],
+  "BIOSACM": [
+    "test3",
+    "test4"
+  ]
+}
